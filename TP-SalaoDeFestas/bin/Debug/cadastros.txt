@@ -1,0 +1,7 @@
+﻿Lucas;123;cliente
+Da Luz;123;funcionario
+Padaria Dois;123;fornecedor
+lucas;123;funcionario
+Assuério Batista;eu93866879;administrador
+
+Marina Batista;123456;cliente

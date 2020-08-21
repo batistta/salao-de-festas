@@ -1,0 +1,3 @@
+1;Lucas;Av. Teste;(33) 33333-3333; 3 de junho de 2018
+2;Assuério Batista;rua vl 16, 217;(31) 97557-3263; 9 de fevereiro de 1999
+3;Marina Batista;rua vl 16, 217;(31) 99395-1971; 6 de setembro de 1992

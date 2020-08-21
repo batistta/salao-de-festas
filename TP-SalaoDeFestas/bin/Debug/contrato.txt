@@ -1,0 +1,4 @@
+1.1;R$ 2199;0%;R$ 2199;Quatro ou mais vezes;Pago;1
+1.2;R$ 2199;10%;R$ 1979,1;À vista;Pago;2
+2.3;R$ 3999;0%;R$ 3999;Quatro ou mais vezes;Pago;3
+3.4;R$ 3799;10%;R$ 3419,1;À vista;a pagar;4

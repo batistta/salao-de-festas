@@ -1,0 +1,2 @@
+1;Da Luz;(22) 22222-2222;Atendente;R$2.0000,00;Fixo
+2;Lucas;(11) 11111-1111;11;11;Temporário
